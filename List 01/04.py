@@ -1,4 +1,6 @@
-salary = float(input('Informe o salário base: '))
+# Faça um programa que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo-se que esse funcionário tem gratificação de 5% sobre o salário-base e paga imposto de 7% sobre salário-base.
+
+salary = float(input('Informe o salário base: ').replace(',', '.'))
 
 earns = (salary / 100) * 5
 spends = (salary / 100) * 7

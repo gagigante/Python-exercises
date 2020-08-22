@@ -1,3 +1,5 @@
+# Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada dessas notas. Exiba, as notas, seus respectivos pesos e a média.
+
 grade01 = float(input('Informe a nota 01: '))
 weight01 = int(input('Informe o peso da nota 01: '))
 
