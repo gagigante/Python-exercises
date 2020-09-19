@@ -4,5 +4,6 @@
   "python.linting.enabled": false,
   "cSpell.words": [
     "vectra"
-  ]
+  ],
+  "python.formatting.provider": "black"
 }
